@@ -1,4 +1,4 @@
-# 🌐 netamv-mcp
+# 🌐 netamv_mcp
 
 🇨🇴 [Español](README.es.md)
 
